@@ -9,6 +9,6 @@
 
 ## 🛠 I’m currently learning
 HTML, CSS for now, My next journey is to learn my first language 
-its Javascript and next goal is python. 
+its Javascript and next goal is python. :)
 
 
