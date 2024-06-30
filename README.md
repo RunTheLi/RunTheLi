@@ -10,7 +10,8 @@
 ## 🛠 I’m currently learning
 HTML, CSS, Javascript, Ruby 
 
-![download](https://github.com/RunTheLi/RunTheLi/assets/157675387/c27fd5cc-8867-4450-ae4b-be8aa4618e9a)
 
+
+![png-clipart-html-js-and-css-logo-cascading-style-sheets-javascript-html-css3-jquery-logo-miscellaneous-text-thumbnail](https://github.com/RunTheLi/RunTheLi/assets/157675387/2a16d742-628e-444f-86b9-9df625623a3b)
 
 
