@@ -9,6 +9,6 @@
 
 ## 🛠 I’m currently learning
 HTML, CSS, Javascript, Ruby 
-![Uploading image.png…]()
+
 
 
