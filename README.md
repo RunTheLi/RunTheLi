@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Run</h1>
 <h3 align="center">"I'm a B.B.A student looking for new challenges, so I've decided to try out coding and I'm loving it.</h3>
 
-- 🔭 I’m currently working on **Python & Bootstrap**
+- 🔭 I’m currently working on **Python**
 
-- 🌱 I’m currently learning **Shell Commands & PostgreSQL**
+- 🌱 I’m currently learning **Bootstrap/React/Python**
 
 - ⌚ 20/12/2023 **I started my Coding Journey**
 
