@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Python & Bootstrap**
 
-- 🌱 I’m currently learning **Shell Commands & PostgreSQL**
+- 🌱 I’m currently learning **React & Ruby**
 
 - ⌚ 20/12/2023 **I started my Coding Journey**
 
