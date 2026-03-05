@@ -80,13 +80,13 @@
 
 <picture>
   <source media="(prefers-color-scheme: dark)" 
-          srcset="https://raw.githubusercontent.com/RunTheLi/RunTheLi/output/pacman-contribution-graph-dark.svg?sanitize=true">
+          srcset="https://raw.githubusercontent.com/RunTheLi/RunTheLi/main/pacman-contribution-graph-dark.svg?sanitize=true">
   
   <source media="(prefers-color-scheme: light)" 
-          srcset="https://raw.githubusercontent.com/RunTheLi/RunTheLi/output/pacman-contribution-graph.svg?sanitize=true">
+          srcset="https://raw.githubusercontent.com/RunTheLi/RunTheLi/main/pacman-contribution-graph.svg?sanitize=true">
   
   <img alt="pacman contribution graph" 
-       src="https://raw.githubusercontent.com/RunTheLi/RunTheLi/output/pacman-contribution-graph.svg?sanitize=true">
+       src="https://raw.githubusercontent.com/RunTheLi/RunTheLi/main/pacman-contribution-graph.svg?sanitize=true">
 </picture>
 
 ###
