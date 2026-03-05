@@ -78,6 +78,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/RunTheLi/RunTheLi/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/RunTheLi/RunTheLi/main/snake.svg" alt="Snake animation" />
 
 ###
