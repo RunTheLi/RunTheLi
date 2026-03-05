@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+<p align="left">My name is Run and I'm a Dev, from Thailand</p>
 
 ###
 
@@ -77,7 +77,6 @@
 </div>
 
 ###
-
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RunTheLi/RunTheLi/output/pacman-contribution-graph-dark.svg">
